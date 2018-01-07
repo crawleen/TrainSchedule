@@ -1,0 +1,14 @@
+.jumbotron {
+	background-color: darkblue;
+	color:white;
+}
+.panel-heading{
+	background-color: darkblue!important;
+	color:white!important;
+}
+h2{
+	font-size: 35px;
+}
+h3{
+	font-size: 20px;
+}
